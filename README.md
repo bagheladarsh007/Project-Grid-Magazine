@@ -2,6 +2,8 @@
 
 ## [Live Website Link!] https://bagheladarsh007.github.io/Project-Grid-Magazine/
 
+## freecodecamplink https://www.freecodecamp.org/fcc0843db15-20ce-4f1c-8708-69508cdba248
+
 ### Structure of the web page
 img src="./webpage.jpg" width="700px" alt="structure of the webpage"  />
 
